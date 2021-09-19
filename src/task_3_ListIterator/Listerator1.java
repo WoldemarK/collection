@@ -1,4 +1,4 @@
-package Task_3_ListIterator;
+package task_3_ListIterator;
 
 import java.util.LinkedList;
 import java.util.List;
