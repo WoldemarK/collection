@@ -11,10 +11,11 @@ public class Test {
         carArrayList.add(new Car("white", "Mazda", 2021));
         carArrayList.add(new Car("red", "Audi", 2019));
 
-        Collections.sort(carArrayList);
-        System.out.println(carArrayList);
+//        Collections.sort(carArrayList);
+//        System.out.println(carArrayList);
 
-        Collections.sort(carArrayList, new AgeTest());
+        carArrayList.sort(new AgeTest());
+        Collections.reverse(carArrayList);
         System.out.println(carArrayList);
     }
 }
