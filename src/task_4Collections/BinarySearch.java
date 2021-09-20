@@ -102,5 +102,8 @@ class Employee implements Comparable<Employee> {
         }
         return result;
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 }
