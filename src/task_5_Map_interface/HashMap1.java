@@ -1,4 +1,4 @@
-package tasc_5_Map_interface;
+package task_5_Map_interface;
 
 import java.util.HashMap;
 import java.util.Map;

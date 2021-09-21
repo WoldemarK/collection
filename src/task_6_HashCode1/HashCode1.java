@@ -1,4 +1,4 @@
-package tasc_6_HashCode1;
+package task_6_HashCode1;
 
 import java.util.HashMap;
 import java.util.Map;
