@@ -11,5 +11,17 @@ public class LinkedListEx {
         queue.add("Den");
         queue.add("Bob");
         System.out.println(queue);
+        System.out.println("_____________________________");
+
+        System.out.println(queue.remove());
+        System.out.println("_____________________________");
+
+        System.out.println(queue);
+        System.out.println("_____________________________");
+
+        System.out.println(queue.element());
+        System.out.println("_____________________________");
+
+
     }
 }
